@@ -114,7 +114,7 @@ research_agent_project/
 
 Once you're comfortable with this basic agent, try:
 
-1. **Add more tools**: Weather API, Wikipedia, file operations
+1. **Add more tools**: Wikipedia, file operations
 2. **Multi-agent system**: Create specialized agents that work together
 3. **RAG integration**: Add a knowledge base for domain-specific questions
 4. **Vision capabilities**: Use a VLM to analyze images
