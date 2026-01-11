@@ -1,0 +1,7 @@
+# smolagents Research Assistant
+# Install with: pip install -r requirements.txt
+
+smolagents>=1.0.0
+duckduckgo-search>=6.0.0
+litellm>=1.0.0
+python-dotenv>=1.0.0
