@@ -106,7 +106,7 @@ research_agent_project/
 ## Model Options
 
 | Model | Provider | Cost | Speed | Quality |
-|-------|----------|------|-------|---------|
+| ------- | ---------- | ------ | ------- | --------- |
 | Qwen 2.5 72B | HF Inference API | Free | Medium | Good |
 | Claude Sonnet | Anthropic | ~$3/MTok | Fast | Excellent |
 
